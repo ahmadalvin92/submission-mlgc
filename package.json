@@ -7,7 +7,7 @@
     "start": "node ./src/server/server.js"
   },
   "keywords": [],
-  "author": "Alfarizi Hidayah",
+  "author": "Ahmad Alvin Griffin",
   "license": "ISC",
   "dependencies": {
     "@google-cloud/firestore": "^7.7.0",
